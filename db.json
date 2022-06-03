@@ -6,5 +6,15 @@
       "password": "1234",
       "role": "admin"
     }
-  ]
+  ],
+ "libraries": [
+     {
+         "id": "001",
+         "name": "CG Knowledge",
+         "field": "Kinh tế, Lịch sử, Kiến thức tổng hợp",
+         "librarian": "Edward Snowden",
+         "amount": 216,
+         
+     }
+ ]
 }
